@@ -1,4 +1,4 @@
-<h1 align="center"> Seu título aqui </h1>
+
 <h1 align="center"> Data analytics from Brazil election </h1>
 
 ![Image](https://pandas.pydata.org/static/img/pandas_secondary_white.svg)
