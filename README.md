@@ -16,7 +16,8 @@ The set of my data is related to the Brazilian election process. The data are fr
 
  📁 **Project access:** 
  https://github.com/walquiria16/BrazilElection/blob/aa90cad8ec52ba83ebb0634bc832752e22d9aaaf/BrazilElectionipynb.ipynb
- **🛠️** **Open Project:**
+ **
+🛠️** **Open Project:**
 
  The project uses Notebook Colab
 
