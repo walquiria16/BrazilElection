@@ -31,6 +31,4 @@ The set of my data is related to the Brazilian election process. The data are fr
 
 # Author|| [<img src="https://avatars.githubusercontent.com/u/60444962?v=4" width=115><br><sub>Walquiria Castelo Branco Lins</sub>](https://github.com/walquiria16)
 
-# Author|| [<img src="https://avatars.githubusercontent.com/u/60444962?v=4" width=115><br><Medium</sub>]https://medium.com/@walquiriacastelobrancolins/data-analytics-from-brazil-election-78c8ab826f52)
-
-
+# Author|| [<img src="https://avatars.githubusercontent.com/u/60444962?v=4" width=115><br><Medium</sub>](https://medium.com/@walquiriacastelobrancolins/data-analytics-from-brazil-election-78c8ab826f52)
